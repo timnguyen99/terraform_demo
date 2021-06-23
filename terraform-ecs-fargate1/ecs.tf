@@ -1,4 +1,5 @@
 # ecs.tf
+# Tim Nguyen
 
 resource "aws_ecs_cluster" "main" {
   name = "Timapp2-cluster"
